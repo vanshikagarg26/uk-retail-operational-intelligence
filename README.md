@@ -1,5 +1,7 @@
 # UK Retail Operational Intelligence
 
+## Live Dashboard
+Streamlit App: https://uk-retail-operational-intelligence-d7yfknrazoxrbmsxxmmzue.streamlit.app/
 ## Project Overview
 
 This project analyses transactional data from a UK-based online retailer to identify business inefficiencies, revenue opportunities, and strategic growth pathways.

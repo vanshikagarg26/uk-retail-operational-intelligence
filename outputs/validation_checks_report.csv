@@ -1,0 +1,7 @@
+Check,Issue Count,Issue %,Why It Matters
+Negative Quantity,0,0.0,Negative quantities may indicate returns or cancellations.
+Zero or Negative Unit Price,0,0.0,Invalid prices can distort revenue and average order value.
+Missing Customer ID,0,0.0,Missing customer IDs limit customer segmentation and repeat purchase analysis.
+Invalid Invoice Date,0,0.0,"Invalid dates affect trend, seasonality, and time-series analysis."
+Cancelled Invoice,0,0.0,Cancelled invoices should be treated separately from completed sales.
+Revenue Calculation Mismatch,0,0.0,Revenue should match Quantity × UnitPrice for reliable financial reporting.

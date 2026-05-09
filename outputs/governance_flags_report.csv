@@ -1,0 +1,3 @@
+Flag,Severity,Reason
+Duplicate rows detected,High,"5,192 duplicate rows found. Duplicates may inflate revenue, transaction, and product demand metrics."
+Constant column: IsReturn,Low,This column has only one unique value and may add limited analytical value.
